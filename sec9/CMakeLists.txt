@@ -1,0 +1,17 @@
+
+cmake_minimum_required(VERSION 3.10.0)
+project(sec9 VERSION 0.1.0 LANGUAGES C CXX)
+
+add_executable(practice_9_1 src/practice1.cpp)
+add_executable(practice_9_2 src/practice2.cpp)
+add_executable(practice_9_3 src/practice3.cpp)
+add_executable(practice_9_4 src/practice4.cpp)
+add_executable(practice_9_5 src/practice5.cpp)
+add_executable(practice_9_6 src/practice6.cpp)
+add_executable(practice_9_7 src/practice7.cpp)
+add_executable(practice_9_8 src/practice8.cpp)
+add_executable(practice_9_9 src/practice9.cpp)
+add_executable(practice_9_10 src/practice10.cpp)
+add_executable(practice_9_11 src/practice11.cpp)
+add_executable(practice_9_12 src/practice12.cpp)
+add_executable(practice_section_check src/practice_section_check.cpp)
